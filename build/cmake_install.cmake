@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/gkyen/OneDrive/Documents/ece0302/problem0_starter
+# Install script for directory: C:/Users/gkyen/OneDrive/Documents/ece0302/ECE-0302/problem0_starter
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "C:/Users/gkyen/OneDrive/Documents/ece0302/problem0_starter/build/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Users/gkyen/OneDrive/Documents/ece0302/ECE-0302/problem0_starter/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\gkyen\OneDrive\Documents\ece0302\problem0_starter
+CMAKE_SOURCE_DIR = C:\Users\gkyen\OneDrive\Documents\ece0302\ECE-0302\problem0_starter
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\gkyen\OneDrive\Documents\ece0302\problem0_starter\build
+CMAKE_BINARY_DIR = C:\Users\gkyen\OneDrive\Documents\ece0302\ECE-0302\problem0_starter\build
 
 # Utility rule file for submission.
 
@@ -66,7 +66,7 @@ include CMakeFiles/submission.dir/compiler_depend.make
 include CMakeFiles/submission.dir/progress.make
 
 CMakeFiles/submission:
-	cd /d C:\Users\gkyen\OneDrive\Documents\ece0302\problem0_starter && "C:\Program Files\CMake\bin\cmake.exe" -E tar cfv C:/Users/gkyen/OneDrive/Documents/ece0302/problem0_starter/build/problem0_submission.zip --format=zip test_add.cpp add.hpp add.tpp
+	cd /d C:\Users\gkyen\OneDrive\Documents\ece0302\ECE-0302\problem0_starter && "C:\Program Files\CMake\bin\cmake.exe" -E tar cfv C:/Users/gkyen/OneDrive/Documents/ece0302/ECE-0302/problem0_starter/build/problem0_submission.zip --format=zip test_add.cpp add.hpp add.tpp
 
 submission: CMakeFiles/submission
 submission: CMakeFiles/submission.dir/build.make
@@ -81,6 +81,6 @@ CMakeFiles/submission.dir/clean:
 .PHONY : CMakeFiles/submission.dir/clean
 
 CMakeFiles/submission.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\gkyen\OneDrive\Documents\ece0302\problem0_starter C:\Users\gkyen\OneDrive\Documents\ece0302\problem0_starter C:\Users\gkyen\OneDrive\Documents\ece0302\problem0_starter\build C:\Users\gkyen\OneDrive\Documents\ece0302\problem0_starter\build C:\Users\gkyen\OneDrive\Documents\ece0302\problem0_starter\build\CMakeFiles\submission.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\gkyen\OneDrive\Documents\ece0302\ECE-0302\problem0_starter C:\Users\gkyen\OneDrive\Documents\ece0302\ECE-0302\problem0_starter C:\Users\gkyen\OneDrive\Documents\ece0302\ECE-0302\problem0_starter\build C:\Users\gkyen\OneDrive\Documents\ece0302\ECE-0302\problem0_starter\build C:\Users\gkyen\OneDrive\Documents\ece0302\ECE-0302\problem0_starter\build\CMakeFiles\submission.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/submission.dir/depend
 

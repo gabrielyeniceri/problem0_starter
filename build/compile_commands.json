@@ -1,8 +1,8 @@
 [
 {
-  "directory": "C:/Users/gkyen/OneDrive/Documents/ece0302/problem0_starter/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\test-add.dir\\test_add.cpp.obj -c C:\\Users\\gkyen\\OneDrive\\Documents\\ece0302\\problem0_starter\\test_add.cpp",
-  "file": "C:/Users/gkyen/OneDrive/Documents/ece0302/problem0_starter/test_add.cpp",
+  "directory": "C:/Users/gkyen/OneDrive/Documents/ece0302/ECE-0302/problem0_starter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\test-add.dir\\test_add.cpp.obj -c C:\\Users\\gkyen\\OneDrive\\Documents\\ece0302\\ECE-0302\\problem0_starter\\test_add.cpp",
+  "file": "C:/Users/gkyen/OneDrive/Documents/ece0302/ECE-0302/problem0_starter/test_add.cpp",
   "output": "CMakeFiles/test-add.dir/test_add.cpp.obj"
 }
 ]

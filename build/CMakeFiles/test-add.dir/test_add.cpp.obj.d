@@ -1,6 +1,6 @@
 CMakeFiles/test-add.dir/test_add.cpp.obj: \
- C:\Users\gkyen\OneDrive\Documents\ece0302\problem0_starter\test_add.cpp \
- C:\Users\gkyen\OneDrive\Documents\ece0302\problem0_starter\catch.hpp \
+ C:\Users\gkyen\OneDrive\Documents\ece0302\ECE-0302\problem0_starter\test_add.cpp \
+ C:\Users\gkyen\OneDrive\Documents\ece0302\ECE-0302\problem0_starter\catch.hpp \
  C:/msys64/ucrt64/include/c++/13.2.0/sstream \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/requires_hosted.h \
  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -384,6 +384,6 @@ CMakeFiles/test-add.dir/test_add.cpp.obj: \
  C:/msys64/ucrt64/include/winsvc.h C:/msys64/ucrt64/include/mcx.h \
  C:/msys64/ucrt64/include/imm.h \
  C:/msys64/ucrt64/include/c++/13.2.0/cstring \
- C:\Users\gkyen\OneDrive\Documents\ece0302\problem0_starter\add.hpp \
- C:\Users\gkyen\OneDrive\Documents\ece0302\problem0_starter\abstract_operator.hpp \
- C:\Users\gkyen\OneDrive\Documents\ece0302\problem0_starter\add.tpp
+ C:\Users\gkyen\OneDrive\Documents\ece0302\ECE-0302\problem0_starter\add.hpp \
+ C:\Users\gkyen\OneDrive\Documents\ece0302\ECE-0302\problem0_starter\abstract_operator.hpp \
+ C:\Users\gkyen\OneDrive\Documents\ece0302\ECE-0302\problem0_starter\add.tpp
