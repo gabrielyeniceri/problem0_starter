@@ -39,5 +39,7 @@ TEST_CASE("Test bool addition", "[Add]") {
 }
 
 //comment for checkoff
+
+//a
 //the destructor remains untested because nothing explicitly verifies it
 //no, operator overloading is not implemented as it uses a call instead of overloading the + operater
