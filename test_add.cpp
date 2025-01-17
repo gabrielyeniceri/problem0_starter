@@ -38,6 +38,6 @@ TEST_CASE("Test bool addition", "[Add]") {
     REQUIRE(a.call(true, true) == static_cast<bool>(true + true));  // true is treated as 1 in arithmetic
 }
 
-
+//comment for checkoff
 //the destructor remains untested because nothing explicitly verifies it
 //no, operator overloading is not implemented as it uses a call instead of overloading the + operater
